@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.josealdairchevez.twa",
-        "sha256_cert_fingerprints": ["EA:91:81:1C:7D:65:8C:F2:87:88:0B:2B:9C:8D:DB:F9:33:EE:94:F2:FF:AF:53:DE:85:16:89:DE:75:68:F1:87"]
+        "sha256_cert_fingerprints": ["76:DE:E5:B8:87:D5:4E:AB:F5:8D:2A:E5:87:3C:59:0E:FF:BD:0D:4D:32:5A:64:31:CE:9B:B9:B3:18:6A:52:C7"]
       }
     }]
