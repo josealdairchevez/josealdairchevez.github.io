@@ -1,8 +1,18 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.josealdairchevez.twa",
-        "sha256_cert_fingerprints": ["10:D9:B1:77:46:4E:3D:AF:F0:0D:1C:B6:A3:82:C5:E2:7A:C9:6E:C0:AC:CE:E9:4C:64:FA:89:20:C0:46:68:A1"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.josealdairchevez.twa",
+      "sha256_cert_fingerprints": ["10:D9:B1:77:46:4E:3D:AF:F0:0D:1C:B6:A3:82:C5:E2:7A:C9:6E:C0:AC:CE:E9:4C:64:FA:89:20:C0:46:68:A1"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.josechevez.sqlmastery",
+      "sha256_cert_fingerprints": ["29:54:9A:4D:27:5C:1E:8F:EE:AA:62:B4:49:6B:F8:43:50:EE:C3:82:83:3F:D0:05:9F:3A:18:78:B1:32:FF:1E"]
+    }
+  }
+]
